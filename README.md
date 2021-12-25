@@ -2,9 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-   mail: emily.kozat@gmail.com
-   phone: 647-287-4405
+- 📫 emily.kozat@gmail.com; 647-287-4405
    
    
 
