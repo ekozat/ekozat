@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ekozat
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @ekozat! I'm a female software engineering student going into my third year at the University of Guelph.
+- 👀 I’m interested in front-end and/or back-end development.
+- 🌱 I’m currently looking for a position in the IT field to broaden my range of skills.
+- 💞️ I’m looking to collaborate on future projects.
 - 📫 emily.kozat@gmail.com; 647-287-4405
    
    
